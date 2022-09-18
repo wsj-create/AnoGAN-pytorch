@@ -123,7 +123,7 @@ def main(args):
     ## 展示生成器存储的图片，存放在result文件夹下的G_out.jpg
     z = torch.randn(8, 20).to(device).view(8, 20, 1, 1).to(device)
     fake_images = G(z)
-    torchvision.utils.save_image(fake_images,f"result\\G_out.jpg")
+    torchvision.utils.save_image(fake_images,f"result/G_out.jpg")
 
 
     """
