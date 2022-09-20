@@ -77,7 +77,7 @@ def main(args):
 
             # 定义潜在变量z    维度：(batch_size,20,1,1)
             z = torch.randn(images.size(0), 20).to(device).view(images.size(0), 20, 1, 1).to(device)
-            # 潜在变量喂入生成网络--->fake_images:(batch_size,1,64,61)
+            # 潜在变量喂入生成网络--->fake_images:(batch_size,1,64,64)
             fake_images = G(z)
 
             # 真图像和假图像送入判别网络，得到d_out_real、d_out_fake   维度：都为（batch_size,1,1,1）
