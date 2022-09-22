@@ -25,7 +25,7 @@
 ### 文件结构
 
 ```
-├── AnoGAN_mnist: 根目录
+├── AnoGAN-pytorch: 根目录
   ├── data: mnist数据集下载保存地址  
   ├── result: 保存程序运行的结果
   ├── mnist_data.py: mnist数据集的读取
