@@ -81,9 +81,9 @@
 
 ![生成器网络](https://tutouxiaosu.oss-cn-beijing.aliyuncs.com/img/img/%E7%94%9F%E6%88%90%E5%99%A8%E7%BD%91%E7%BB%9C.png#pic_center)
 
-<img src="https://tutouxiaosu.oss-cn-beijing.aliyuncs.com/img/img/%E5%88%A4%E5%88%AB%E5%99%A8%E7%BD%91%E7%BB%9C.png" alt="判别器网络" style="zoom:80%;" />
 
 
+![AnoGAN-第 2 页](https://tutouxiaosu.oss-cn-beijing.aliyuncs.com/img/img/AnoGAN-%E7%AC%AC%202%20%E9%A1%B5.png)
 
 
 
